@@ -1,0 +1,6 @@
+{
+  "name": "OT & Wage Ledger",
+  "description": "ระบบบันทึกโอทีและค่าแรงรายวัน พร้อมรอบตัดวีค 2 รอบ ปฏิทินโต้ตอบ กราฟสรุปรายเดือน/รายปี และซิงค์ Google Sheets & Drive",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
